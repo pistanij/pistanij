@@ -3,7 +3,7 @@
 ## About Me
 🔆 My name is Jackie Pistani and I am a senior at UNCC! <br/>
 🔆 I am studying computer science with a concentration in cybersecurity, and I am also minoring in Chinese. <br/>
-🔆 I am currently a nuclear data intern at Duke Energy. <br/>
+🔆 I am a nuclear data intern at Duke Energy. <br/>
 🔆 Currently, I am working towards getting an AWS certificate!
 
 ## Projects
