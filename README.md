@@ -8,10 +8,10 @@
 
 ## Projects
 🌿 Wall Street Options Database Design: I worked on the project in the spring of 2023, and had the opportunity to lead this project. <br/>
-&nbsp;- Given the data from the company, we were able to convert their data to BCNF and design a database for them. <br/>
-&nbsp;- Had the opportunity to create views and stored procedures for efficient data retrieval. <br/>
-&nbsp;- Made strategic indexing decisions to enhance query performance and data integrity. <br/>
-&nbsp;- Presented our results to the company and received positive feedback. 
+• Given the data from the company, we were able to convert their data to BCNF and design a database for them. <br/>
+• Had the opportunity to create views and stored procedures for efficient data retrieval. <br/>
+• Made strategic indexing decisions to enhance query performance and data integrity. <br/>
+• Presented our results to the company and received positive feedback. 
 
 ## Goals and Objective
 🌍 I want to be able to work within a team to create a fully functioning software app. <br/>
